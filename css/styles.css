@@ -1,0 +1,13 @@
+p{
+color: red;
+background-color: green;
+margin: 20px;//external margin
+padding: 50px;//internal margin
+border: 10px solid blue;
+}
+
+a{
+color: yellow;
+font-size: 30px;
+}
+
